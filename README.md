@@ -1,2 +1,2 @@
 # blockchain
-Python-based blockchain which uses Proof of Work as consensus algorithm
+Py27-based blockchain which uses Proof of Work as consensus algorithm.
